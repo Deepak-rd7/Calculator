@@ -49,9 +49,6 @@ The display should show `5`.
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
